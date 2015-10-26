@@ -1,0 +1,7 @@
+package order.dao;
+
+public class Order {
+	
+	int id;
+	String status;
+}

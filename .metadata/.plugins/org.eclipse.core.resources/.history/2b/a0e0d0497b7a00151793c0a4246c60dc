@@ -1,0 +1,7 @@
+package order.dao;
+
+public interface OrderDAO {
+	
+	int create(Order order);
+
+}

@@ -1,0 +1,9 @@
+package useradmin.dao;
+
+import useradmin.dto.User;
+
+public class UserDAO {
+	public int Create(User user) {
+
+	}
+}

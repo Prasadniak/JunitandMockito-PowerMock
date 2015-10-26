@@ -1,0 +1,11 @@
+package Introduction;
+
+public class GreetingsImplementation implements Greetings {
+
+	@Override
+	public String greet(String name) {
+		
+		return "hello "+name;
+	}
+
+}

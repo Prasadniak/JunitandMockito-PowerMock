@@ -1,0 +1,11 @@
+package useradmin.util;
+
+public final class IdGenerator {
+
+	static int i;
+	
+	public static final int IDgenerator()
+	{
+		return i++;
+	}
+}

@@ -1,0 +1,5 @@
+package SimpleAddition;
+
+public interface Addition {
+
+}

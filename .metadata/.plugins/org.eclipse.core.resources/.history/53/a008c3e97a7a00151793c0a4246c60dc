@@ -1,0 +1,10 @@
+package order.dao;
+
+public class Order implements OrderDAO {
+
+	@Override
+	public int create(Order order) {
+		return 0;
+	}
+
+}

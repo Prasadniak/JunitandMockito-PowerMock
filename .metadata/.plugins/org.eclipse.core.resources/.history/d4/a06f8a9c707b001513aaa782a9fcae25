@@ -1,0 +1,18 @@
+package useradmin.dao;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.powermock.modules.junit4.legacy.PowerMockRunner;
+
+
+@RunWith(PowerMockRunne.class)
+public class UserDAOTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

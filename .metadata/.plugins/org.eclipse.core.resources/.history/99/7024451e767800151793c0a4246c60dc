@@ -1,0 +1,17 @@
+package Introduction;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class GreetingsImplementationTest {
+
+	@Test
+	public void testGreetingImplementation() {
+		Greetings g = new GreetingsImplementation();
+		String gname = g.greet("prasad");
+		assertNotNull(gname);
+		assertEquals("Hello Prasad",gname);
+	}
+
+}

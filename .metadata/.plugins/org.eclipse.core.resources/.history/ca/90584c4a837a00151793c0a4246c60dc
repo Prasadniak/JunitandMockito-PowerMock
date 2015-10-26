@@ -1,0 +1,13 @@
+package order.BO;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class OrderBOImplementationTest {
+
+	@Test
+	public void placeOrder_CreatingOrder() {
+	}
+
+}

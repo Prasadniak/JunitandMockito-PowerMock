@@ -1,0 +1,26 @@
+package SimpleAddition;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class AddingImplementationTest {
+
+	private int num1;
+	private int num2;
+	private int exresult;
+	
+	public AddingImplementationTest(int num1,int num2,int result)
+	{
+		
+	}
+	
+	
+	@Test
+	public void Adding_theNumbers() {
+		Addition ad = new AddingImplementation();
+		int add = ad.add(20, 20);
+		assertEquals(40, add);
+	}
+
+}
