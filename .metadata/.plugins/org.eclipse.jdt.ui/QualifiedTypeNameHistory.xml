@@ -9,7 +9,6 @@
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="order.dao.Order"/>
 <fullyQualifiedTypeName name="order.dto.Order"/>
-<fullyQualifiedTypeName name="org.mockito.Mock"/>
 <fullyQualifiedTypeName name="order.dao.OrderDAO"/>
 <fullyQualifiedTypeName name="org.mockito.internal.verification.Times"/>
 <fullyQualifiedTypeName name="SimpleAddition.Addition"/>
@@ -25,4 +24,8 @@
 <fullyQualifiedTypeName name="useradmin.dao.UserDAO"/>
 <fullyQualifiedTypeName name="useradmin.util.IdGenerator"/>
 <fullyQualifiedTypeName name="useradmin.dto.User"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="org.mockito.Mock"/>
+<fullyQualifiedTypeName name="org.mockito.Mockito"/>
+<fullyQualifiedTypeName name="org.mockito.MockitoAnnotations"/>
 </qualifiedTypeNameHistroy>

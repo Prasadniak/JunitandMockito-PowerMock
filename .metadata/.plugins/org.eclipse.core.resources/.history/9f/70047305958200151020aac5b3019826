@@ -1,0 +1,20 @@
+package basics;
+
+public class A {
+	
+	private B b;
+	
+	public A(B b){
+		this.b = b;
+	}
+	public int useVoidMethod(){
+		try {
+			b.Voidmethod();
+		} catch (Exception e) {
+			 new RuntimeException(e);
+		}
+		
+		return 0;
+	}
+
+}

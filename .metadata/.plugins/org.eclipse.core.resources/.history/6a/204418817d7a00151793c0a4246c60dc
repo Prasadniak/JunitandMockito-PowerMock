@@ -1,7 +1,0 @@
-package order.BO.Exception;
-
-import order.BO.OrderBO;
-
-public class BOException extends Exception implements OrderBO {
-
-}

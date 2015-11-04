@@ -1,7 +1,0 @@
-package SimpleAddition;
-
-public interface Addition {
-	
-	public int add(num1,num2);
-
-}
